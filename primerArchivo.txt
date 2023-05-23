@@ -1,0 +1,2 @@
+1ero se creo el archivo sin ningun texto, luego, se redactó este texto
+para luego pasar a realizar el 2do commit y el push.
